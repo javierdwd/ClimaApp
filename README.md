@@ -1,3 +1,13 @@
+# Workshop
+
+Aplicación desarrollada en base al Workshop de Agustin Mulet:
+https://github.com/agustinmulet/reactworkshop
+
+Resultado:
+https://javi-climapp.netlify.com
+
+---------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
