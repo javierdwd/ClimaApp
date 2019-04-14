@@ -3,7 +3,15 @@
 Aplicación desarrollada en base al Workshop de Agustin Mulet:
 https://github.com/agustinmulet/reactworkshop
 
-Resultado:
+## Temas:
+
+- Introducción a React: Componentes, JSX, Props y States.
+- Ciclos de vida del componente.
+- Consumír un API utilizando Fetch.
+- Deployment con [Webtask](https://webtask.io) y [Netlify](https://www.netlify.com).
+
+
+### Resultado:
 https://javi-climapp.netlify.com
 
 ---------------------------------------------------------------------------------------------------------
